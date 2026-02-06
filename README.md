@@ -70,7 +70,6 @@ Este repositorio organiza el proyecto separando la evidencia documental de los a
 ---
 
 ## 📝 Resumen del Problema
-*(Editar esta sección en la Semana 2)*
 En un salón de uñas situado en Bochalema, Cali (Colombia), las trabajadoras dedicadas a servicios de manicura presentan dolor persistente en los dedos de las manos, con énfasis particularmente en el pulgar, durante y después de sus jornadas laborales. Esta sintomatología está asociada al uso continuo de herramientas manuales como corta cutículas, limas metálicas y pinzas para uñas, que requieren movimientos repetitivos finos y fuerzas de pinza sostenidas.
 
 Tareas con movimientos repetitivos de las manos, fuerza aplicada sobre herramientas pequeñas y mantenidas posturas de muñeca se han identificado como factores de riesgo importantes para desarrollar trastornos musculoesqueléticos en la extremidad superior (Smith et al., 2023). Además, las herramientas de diseño tradicional tienden a generar cargas excesivas sobre las articulaciones interfalángicas y la articulación carpometacarpiana del pulgar, lo que puede conducir a inflamación de los tendones flexores y extensor del pulgar (López et al., 2022). Cuando este dolor se vuelve crónico, puede disminuir significativamente la funcionalidad manual y la capacidad para realizar tareas precisas y repetitivas.
