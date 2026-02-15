@@ -22,7 +22,7 @@ En el sector de la cosmetología y peluquería, se ha reportado una prevalencia 
 En el caso de las manicuristas del Salón La Belle, la demanda constante de precisión manual y fuerza de pinza sostenida podría generar una sobrecarga acumulativa que supere la capacidad de recuperación tisular, comprometiendo la funcionalidad manual, la productividad y la sostenibilidad laboral. Por ello, resulta fundamental realizar un análisis que permita dimensionar las consecuencias de las cargas mecánicas y exposición repetitiva, con el fin de diseñar intervenciones ergonómicas basadas en evidencia científica actual.
 
 # Bibliografía
-- Acar, G. A., et al. (2023). Neck and upper extremity musculoskeletal problems in cosmetologists. Work. https://doi.org/10.xxxx/xxxx
+- Acar, G. A., et al. (2023). Neck and upper extremity musculoskeletal problems in cosmetologists. Work.https://doi.org/10.3233/WOR-220056
 
 Link: https://journals.sagepub.com/doi/abs/10.3233/WOR-220056
 
