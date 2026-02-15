@@ -1,6 +1,6 @@
-Estado del arte
+# Estado del arte
 
-Prevalencia y Caracterización de los Trastornos Musculoesqueléticos en Profesionales de la Belleza
+# Prevalencia y Caracterización de los Trastornos Musculoesqueléticos en Profesionales de la Belleza
 Work-Related Musculoskeletal Disorders Pain among Beauty Service Employees: An Observational Survey
 Referencia: Work-Related Musculoskeletal Disorders Pain among Beauty Service Employees: An Observational Survey. (2025). Journal of Society of Indian Physiotherapists, 10(1), 5–10. https://journals.lww.com/jsip/fulltext/2025/01000/work_related_musculoskeletal_disorders_pain_among.5.aspx
 
@@ -11,10 +11,7 @@ Factores involucrados: Movimientos repetitivos de muñeca, posturas estáticas p
 Resultados: 100% reportó dolor lumbar; 76.5% dolor de rodilla; 70.1% cervicalgia; 40.6% dolor de muñeca. Mayor prevalencia en mujeres y con >6 años de experiencia.
 Conclusiones: Los WMSDs son altamente prevalentes en belleza; se requieren intervenciones ergonómicas y estudios con muestras más grandes y diversificadas.
 
-
-
-
-Hand Gripping Assessment in Female Nail Artist: A Cross-Sectional Study
+# Hand Gripping Assessment in Female Nail Artist: A Cross-Sectional Study
 Referencia: Hand Gripping Assessment in Female Nail Artist: A Cross-Sectional Study. (2024). International Journal of Health Sciences & Research, 14(8), 44–52. https://www.ijhsr.org/IJHSR_Vol.14_Issue.8_August2024/IJHSR44.pdf
 
 Objetivo: Evaluar la fuerza de agarre y su relación con molestias musculoesqueléticas en manicuristas.
@@ -24,7 +21,7 @@ Factores involucrados: Uso repetitivo de herramientas, fuerza de pinza sostenida
 Resultados: 64% reportó dolor cervical; debilidad significativa en fuerza de agarre vs. controles.
 Conclusiones: La exposición a movimientos repetitivos y fuerza de pinza reduce la fuerza de agarre y aumenta el riesgo de WMSDs en manicuristas.
 
-Health and Safety in Nail Salons: A Cross-Sectional Survey
+# Health and Safety in Nail Salons: A Cross-Sectional Survey
 Referencia: Sanaat, S., et al. (2021). Health and Safety in Nail Salons: A Cross-Sectional Survey. Annals of Work Exposures and Health, 65(2), 225–229. https://pubmed.ncbi.nlm.nih.gov/32728720
 
 Objetivo: Describir síntomas musculoesqueléticos y prácticas de seguridad en técnicos de uñas.
@@ -34,7 +31,7 @@ Factores involucrados: Posturas forzadas, repetitividad, jornada >30 h/semana.
 Resultados: 44% dolor cervical; 38% dolor de espalda; 27% dolor de mano/muñeca. Mayor riesgo en quienes trabajan >30 h/semana.
 Conclusiones: Los riesgos ergonómicos son tan importantes como los químicos; se deben implementar programas de salud ocupacional integrales.
 
-Musculoskeletal pain in manicure/pedicure: Integrative review
+# Musculoskeletal pain in manicure/pedicure: Integrative review
 Referencia: Musculoskeletal pain in manicure/pedicure: Integrative review. (2021). International Journal of Family & Community Medicine, 5(3), 92–97. https://medcraveonline.com/IJFCM/musculoskeletal-pain-in-manicurepedicure-integrative-review.html
 
 Objetivo: Sintetizar evidencia sobre dolor musculoesquelético en manicuristas/pedicuristas y su impacto en calidad de vida.
@@ -44,7 +41,7 @@ Factores involucrados: Posturas inadecuadas, repetitividad, falta de pausas.
 Resultados: 99.93% reportó dolor; zonas más afectadas: columna (85%), hombros (70%) y manos (60%).
 Conclusiones: Existe una altísima prevalencia de WMSDs; se requieren intervenciones ergonómicas inmediatas.
 
-“It’s a mixture of emotions”: Nail technicians’ visual storytelling of occupational health
+# “It’s a mixture of emotions”: Nail technicians’ visual storytelling of occupational health
 Referencia: “It’s a mixture of emotions”: Nail technicians’ visual storytelling of occupational health. (2025). Qualitative Research in Medicine & Healthcare, 10(1), 100115. https://www.sciencedirect.com/science/article/pii/S2532204425000292
 
 Objetivo: Explorar experiencias ocupacionales de salud de técnicos de uñas mediante narrativas visuales.
@@ -54,7 +51,7 @@ Factores involucrados: Posturas forzadas, movimientos repetitivos, exposición a
 Resultados: Todas reportaron dolor en manos, espalda, cuello y hombros; identificaron falta de controles ergonómicos.
 Conclusiones: Las intervenciones deben incorporar la voz de los trabajadores y abordar riesgos ergonómicos y químicos de manera integral.
 
-Estrategias de Intervención Ergonómica para la Prevención de WMSDs
+# Estrategias de Intervención Ergonómica para la Prevención de WMSDs
 Efficacy of ergonomic interventions on work-related musculoskeletal pain: A systematic review and meta-analysis
 Referencia: Efficacy of ergonomic interventions on work-related musculoskeletal pain: A systematic review and meta-analysis. (2025). Journal of Clinical Medicine, 14(9), 3034. https://www.mdpi.com/2077-0383/14/9/3034
 
@@ -65,7 +62,7 @@ Factores involucrados: Ajuste de mobiliario, pausas activas, educación ergonóm
 Resultados: Reducción significativa del dolor (OR 0.64; IC 95%: 0.56–0.73), especialmente en espalda baja (OR 0.53; IC 95%: 0.40–0.70).
 Conclusiones: Las intervenciones ergonómicas son efectivas; se necesitan más estudios para evaluar sostenibilidad a largo plazo.
 
-Ergonomic evaluation of nail technicians with Quick Exposure Check
+# Ergonomic evaluation of nail technicians with Quick Exposure Check
 Referencia: Ergonomic evaluation of nail technicians with Quick Exposure Check. (2024). Preprints, 2024072621. https://www.preprints.org/manuscript/202407.2621
 
 Objetivo: Evaluar riesgos ergonómicos y su relación con el dolor en manicuristas.
@@ -75,7 +72,7 @@ Factores involucrados: Postura de tronco, cuello y muñecas; repetitividad; fuer
 Resultados: 88.6% presentó riesgo ergonómico alto; 74.3% reportó dolor en manos/muñecas.
 Conclusiones: El QEC es una herramienta útil para identificar riesgos; se requieren ajustes inmediatos en puestos de trabajo.
 
-Stay healthy and safe while giving manicures and pedicures: A guide for nail salon workers
+# Stay healthy and safe while giving manicures and pedicures: A guide for nail salon workers
 Referencia: Occupational Safety and Health Administration. (2012). Stay healthy and safe while giving manicures and pedicures: A guide for nail salon workers (OSHA 3542-05). https://braziliancenter.org/wp-content/uploads/2023/06/3542nail-salon-workers-guide.pdf
 
 Objetivo: Proporcionar recomendaciones prácticas para reducir riesgos ergonómicos y químicos.
@@ -85,7 +82,7 @@ Factores involucrados: Altura de mesa y silla, alcance de herramientas, descanso
 Resultados: Implementación de ajustes sencillos (reposabrazos, sillas ajustables) reduce molestias.
 Conclusiones: La ergonomía participativa y la educación continua son clave para prevenir WMSDs.
 
-Nail technicians: Workplace safety and health
+# Nail technicians: Workplace safety and health
 Referencia: National Institute for Occupational Safety and Health. (2026). Nail technicians: Workplace safety and health. https://www.cdc.gov/niosh/nail-technicians/about/index.html
 
 Objetivo: Describir peligros ocupacionales (químicos y ergonómicos) y medidas de control.
@@ -95,7 +92,7 @@ Factores involucrados: Posturas forzadas, movimientos repetitivos, falta de paus
 Resultados: Uso de sillas ajustables, mesas con ventilación y pausas activas reduce incidencia de WMSDs.
 Conclusiones: La integración de controles de ingeniería y prácticas administrativas es esencial para la salud del trabajador.
 
-Effect of neck exercises & ergonomic advices on neck pain in nail artists
+# Effect of neck exercises & ergonomic advices on neck pain in nail artists
 Referencia: Effect of Neck Exercises & Ergonomic Advices on Neck Pain in Nail Artists. (2025). International Journal of Frontier Medicine and Research, 6(6), 102–110. https://www.ijfmr.com/papers/2025/6/62102.pdf
 
 Objetivo: Evaluar el efecto de ejercicios cervicales y asesoramiento ergonómico en dolor cervical.
@@ -105,24 +102,23 @@ Factores involucrados: Postura de cuello en flexión, falta de apoyo lumbar.
 Resultados: Reducción significativa en intensidad de dolor (EVA: 6.2 a 2.1; p < 0.001) en el grupo intervención.
 Conclusiones: La combinación de ejercicios y ajustes ergonómicos es altamente efectiva para manejar dolor cervical.
 
+# Referencias
+- Effect of Neck Exercises & Ergonomic Advices on Neck Pain in Nail Artists. (2025). International Journal of Frontier Medicine and Research, 6(6), 102–110. https://www.ijfmr.com/papers/2025/6/62102.pdf
 
-Referencias
-Effect of Neck Exercises & Ergonomic Advices on Neck Pain in Nail Artists. (2025). International Journal of Frontier Medicine and Research, 6(6), 102–110. https://www.ijfmr.com/papers/2025/6/62102.pdf
+- Efficacy of ergonomic interventions on work-related musculoskeletal pain: A systematic review and meta-analysis. (2025). Journal of Clinical Medicine, 14(9), 3034. https://www.mdpi.com/2077-0383/14/9/3034
 
-Efficacy of ergonomic interventions on work-related musculoskeletal pain: A systematic review and meta-analysis. (2025). Journal of Clinical Medicine, 14(9), 3034. https://www.mdpi.com/2077-0383/14/9/3034
+- Ergonomic evaluation of nail technicians with Quick Exposure Check. (2024). Preprints, 2024072621. https://www.preprints.org/manuscript/202407.2621
 
-Ergonomic evaluation of nail technicians with Quick Exposure Check. (2024). Preprints, 2024072621. https://www.preprints.org/manuscript/202407.2621
+- Hand Gripping Assessment in Female Nail Artist: A Cross-Sectional Study. (2024). International Journal of Health Sciences & Research, 14(8), 44–52. https://www.ijhsr.org/IJHSR_Vol.14_Issue.8_August2024/IJHSR44.pdf
 
-Hand Gripping Assessment in Female Nail Artist: A Cross-Sectional Study. (2024). International Journal of Health Sciences & Research, 14(8), 44–52. https://www.ijhsr.org/IJHSR_Vol.14_Issue.8_August2024/IJHSR44.pdf
+- Musculoskeletal pain in manicure/pedicure: Integrative review. (2021). International Journal of Family & Community Medicine, 5(3), 92–97. https://medcraveonline.com/IJFCM/musculoskeletal-pain-in-manicurepedicure-integrative-review.html
 
-Musculoskeletal pain in manicure/pedicure: Integrative review. (2021). International Journal of Family & Community Medicine, 5(3), 92–97. https://medcraveonline.com/IJFCM/musculoskeletal-pain-in-manicurepedicure-integrative-review.html
+- National Institute for Occupational Safety and Health. (2026). Nail technicians: Workplace safety and health. https://www.cdc.gov/niosh/nail-technicians/about/index.html
 
-National Institute for Occupational Safety and Health. (2026). Nail technicians: Workplace safety and health. https://www.cdc.gov/niosh/nail-technicians/about/index.html
+- Occupational Safety and Health Administration. (2012). Stay healthy and safe while giving manicures and pedicures: A guide for nail salon workers (OSHA 3542-05). https://braziliancenter.org/wp-content/uploads/2023/06/3542nail-salon-workers-guide.pdf
 
-Occupational Safety and Health Administration. (2012). Stay healthy and safe while giving manicures and pedicures: A guide for nail salon workers (OSHA 3542-05). https://braziliancenter.org/wp-content/uploads/2023/06/3542nail-salon-workers-guide.pdf
+- Sanaat, S., et al. (2021). Health and safety in nail salons: A cross-sectional survey. Annals of Work Exposures and Health, 65(2), 225–229. https://pubmed.ncbi.nlm.nih.gov/32728720
 
-Sanaat, S., et al. (2021). Health and safety in nail salons: A cross-sectional survey. Annals of Work Exposures and Health, 65(2), 225–229. https://pubmed.ncbi.nlm.nih.gov/32728720
+- “It’s a mixture of emotions”: Nail technicians’ visual storytelling of occupational health. (2025). Qualitative Research in Medicine & Healthcare, 10(1), 100115. https://www.sciencedirect.com/science/article/pii/S2532204425000292
 
-“It’s a mixture of emotions”: Nail technicians’ visual storytelling of occupational health. (2025). Qualitative Research in Medicine & Healthcare, 10(1), 100115. https://www.sciencedirect.com/science/article/pii/S2532204425000292
-
-Work-Related Musculoskeletal Disorders Pain among Beauty Service Employees: An Observational Survey. (2025). Journal of Society of Indian Physiotherapists, 10(1), 5–10. https://journals.lww.com/jsip/fulltext/2025/01000/work_related_musculoskeletal_disorders_pain_among.5.aspx
+- Work-Related Musculoskeletal Disorders Pain among Beauty Service Employees: An Observational Survey. (2025). Journal of Society of Indian Physiotherapists, 10(1), 5–10. https://journals.lww.com/jsip/fulltext/2025/01000/work_related_musculoskeletal_disorders_pain_among.5.aspx
