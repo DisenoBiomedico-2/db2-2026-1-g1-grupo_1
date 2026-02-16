@@ -9,9 +9,9 @@ El perfil de usuario se elabora como parte del proceso de diseño centrado en el
 + Postura laboral: Tronco inclinado hacia adelante, cuello en flexión y antebrazos con apoyo parcial, generando una cadena de tensión que termina en la mano. Las posturas del pulgar se mantienen en desviación radial extrema y extensión, alejándose de la posición neutra recomendada.
 + Actividades laborales principales:
 + Uso continuo de herramientas manuales pequeñas (corta cutículas, limas metálicas y pinzas para uñas).
-+ Movimientos repetitivos finos de pinza (estimados en 3,000-5,000 movimientos por jornada).
-+ Aplicación de fuerzas de pinza entre 15-25 N de manera intermitente pero frecuente.
+- Movimientos repetitivos finos de pinza (estimados en 3,000-5,000 movimientos por jornada).
+- Aplicación de fuerzas de pinza entre 15-25 N de manera intermitente pero frecuente.
 + Síntomas reportados:
-+ Dolor persistente en los dedos de las manos, con énfasis particularmente en el pulgar
-+ Dolor durante y después de las jornadas laborales
-+ Contexto económico: la remuneración depende directamente del número de servicios realizados
+- Dolor persistente en los dedos de las manos, con énfasis particularmente en el pulgar
+- Dolor durante y después de las jornadas laborales
+- Contexto económico: la remuneración depende directamente del número de servicios realizados
