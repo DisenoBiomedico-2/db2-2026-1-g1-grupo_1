@@ -19,7 +19,7 @@
 
 10. Favorecer la prevención primaria de trastornos musculoesqueléticos reduciendo la necesidad de intervenciones médicas posteriores.
 
-#Requerimientos funcionales y no funcionales
+# Requerimientos funcionales y no funcionales
 Necesidad 1: Monitoreo continuo de posturas
 - 1.1. Registrar en tiempo real posturas cervicales, dorsales y extremidades superiores (Funcional)
 - 1.2. Resistente a salpicaduras de agua y productos químicos (No Funcional)
