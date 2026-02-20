@@ -1,4 +1,4 @@
-Lista de necesidades
+# Lista de necesidades traducidas
 1. Garantizar el monitoreo continuo de posturas cervicales, dorsales y de extremidades superiores durante la jornada laboral, considerando que las técnicas de uñas adoptan posiciones estáticas prolongadas que incrementan el riesgo de trastornos musculoesqueléticos.
 
 2. Detectar de manera temprana desviaciones posturales sostenidas que superen rangos ergonómicamente seguros, con el fin de prevenir la aparición de dolor crónico en cuello, hombros y zona lumbar.
